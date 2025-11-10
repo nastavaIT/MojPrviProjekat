@@ -13,6 +13,8 @@ namespace MojPrviProjekat
             Console.WriteLine("Zdravo iz mog prvog C# projekta na GitHub-u!");
             Console.WriteLine("Autor: nastavaIT");
             Console.WriteLine("Datum: " + DateTime.Now.ToString("dd.MM.yyyy. HH:mm"));
+            Console.WriteLine("Ovo je nova verzija programa!");
+
             Console.ReadLine();
 
         }
